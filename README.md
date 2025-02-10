@@ -1,13 +1,11 @@
 
 - 👋 Hi, I’m @wassima-manssour
-- 👩‍🎓 I'm actually a Master Student 
-- 🏛️ _MS of Information Systems and Intelligent Systems- M2SI_ at INSEA, Rabat,Morocco.
+- 👩‍🎓 I'm actually a PhD Student in AI for Healthcare - CADI AYYAD UNIVERSITY, Morocco
 - 🖥️ I am a Data Scientist with a strong background in software development and web design.
 - 👀 I’m interested in **AI** **ML** **DL** **Big Data**
-- 🌱 I’m currently learning **Computational Neuroscience**
 - 📫 How to reach me:
     - Email: wassima.mansssour@gmail.com
-    - Linkedin: https://www.linkedin.com/in/wassima-manssour-b48a7018a/
+    - Linkedin: https://www.linkedin.com/in/wassima-manssour/
     - Instagram:  https://www.instagram.com/wassima_manssour_
 
 <!---
